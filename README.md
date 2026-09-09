@@ -1,2 +1,3 @@
 # Bulk-RNAseq-
-Get way to learn bulk RNAseq with the perspective of a beginner 
+Gateway to learning bulk RNA-seq from the perspective of a beginner 
+abcd
